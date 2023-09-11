@@ -1,2 +1,2 @@
 // this is a comment
-console.log('hello world i am java');
+console.log('hello world i am javascript');

@@ -3,9 +3,10 @@ body {
     background-color:#302b28;
     margin: 40px;
     font-family: "Special Elite";
+    font-size: 18px;
 }
 
-.intro {
+.wip {
     margin: 18px;
     font-family: "Berkshire Swash";
     font-size: 30px;
@@ -17,7 +18,6 @@ body {
     text-decoration: none;
     color: black;
 }
-
 .navbar a:hover {
     text-shadow: 0px 0px 4px #fad2cf;
 }
@@ -25,4 +25,26 @@ body {
 .portfolio img {
     padding: 6px;
     display: grid;
+}
+
+.footer {
+    margin-top: 200px;
+    font-size: 14px;
+}
+.footer a {
+    text-decoration: none;
+    color: black;
+}
+.footer a:hover {
+    text-shadow: 0px 0px 4px #fad2cf;
+}
+
+.links {
+}
+.links a {
+    text-decoration: none;
+    color: black;
+}
+.links a:hover {
+    text-shadow: 0px 0px 4px #fad2cf;
 }
